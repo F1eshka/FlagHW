@@ -1,0 +1,85 @@
+﻿  Flag.HW.cpp
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(1,4): error C2014: команда препроцессора не должна начинаться с пробела
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\sal.h(2361,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\sal.h(2361,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(8,2): error C2065: HANDLE: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(8,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "h"
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(8,9): error C2065: h: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(8,26): error C2065: STD_OUTPUT_HANDLE: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(8,13): error C3861: GetStdHandle: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(9,2): error C2065: HWND: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(9,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "hwnd"
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(9,7): error C2065: hwnd: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(9,14): error C3861: GetConsoleWindow: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(10,2): error C2065: HDC: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(10,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "hdc"
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(10,6): error C2065: hdc: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(10,18): error C2065: hwnd: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(10,12): error C3861: GetDC: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(15,2): error C2065: HPEN: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(15,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pen"
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(15,7): error C2065: pen: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(15,23): error C2065: PS_SOLID: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(15,37): error C3861: RGB: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(15,13): error C3861: CreatePen: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(16,2): error C2065: HBRUSH: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(16,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "brush"
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(16,9): error C2065: brush: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(16,34): error C3861: RGB: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(16,17): error C3861: CreateSolidBrush: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(18,15): error C2065: hdc: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(18,20): error C2065: pen: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(18,2): error C3861: SelectObject: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(19,15): error C2065: hdc: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(19,20): error C2065: brush: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(19,2): error C3861: SelectObject: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(27,12): error C2065: hdc: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(27,2): error C3861: Rectangle: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(29,2): error C2065: HPEN: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(29,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pen2"
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(29,7): error C2065: pen2: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(29,24): error C2065: PS_SOLID: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(29,38): error C3861: RGB: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(29,14): error C3861: CreatePen: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(30,2): error C2065: HBRUSH: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(30,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "brush2"
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(30,9): error C2065: brush2: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(30,35): error C3861: RGB: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(30,18): error C3861: CreateSolidBrush: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(32,15): error C2065: hdc: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(32,20): error C2065: pen2: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(32,2): error C3861: SelectObject: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(33,15): error C2065: hdc: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(33,20): error C2065: brush2: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(33,2): error C3861: SelectObject: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(41,12): error C2065: hdc: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(41,2): error C3861: Rectangle: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(43,2): error C2065: HPEN: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(43,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pen3"
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(43,7): error C2065: pen3: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(43,24): error C2065: PS_SOLID: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(43,38): error C3861: RGB: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(43,14): error C3861: CreatePen: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(44,2): error C2065: HBRUSH: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(44,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "brush3"
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(44,9): error C2065: brush3: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(44,35): error C3861: RGB: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(44,18): error C3861: CreateSolidBrush: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(46,15): error C2065: hdc: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(46,20): error C2065: pen3: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(46,2): error C3861: SelectObject: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(47,15): error C2065: hdc: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(47,20): error C2065: brush3: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(47,2): error C3861: SelectObject: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(55,12): error C2065: hdc: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(55,2): error C3861: Rectangle: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(57,2): error C2065: CONSOLE_CURSOR_INFO: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(57,22): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cci"
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(57,22): error C2065: cci: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(58,2): error C2065: cci: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(59,2): error C2065: cci: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(60,23): error C2065: h: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(60,27): error C2065: cci: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(60,2): error C3861: SetConsoleCursorInfo: идентификатор не найден
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(62,8): error C2065: INFINITE: необъявленный идентификатор
+C:\Users\Rog\source\repos\Flag.HW\Flag.HW.cpp(62,2): error C3861: Sleep: идентификатор не найден
